@@ -1,3 +1,5 @@
+![Graphique obtenue pour PI = générer_PI(100, 100), m = 10, proba = 0.2, g = 10000](./algo.png)
+
 # Mission d'exploration martienne
 
 Le projet présenté est basé sur le sujet Informatique du **concours Centrale-Supélec** (MP, PC, PSI, TSI) de 2017. L'objectif du projet est de mettre en oeuvre l'**algorithme génétique** présenté dans la partie III du sujet; pour cette raison la partie II n'est que peu abordée. 
